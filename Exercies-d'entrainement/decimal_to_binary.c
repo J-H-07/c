@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+//Converti un nombre décimal en binaire
 char convert(int number)
 {
         if ((number % 2) == 1)
