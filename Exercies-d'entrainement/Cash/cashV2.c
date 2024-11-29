@@ -47,7 +47,6 @@ void main(void)
 
 int  rendre_monnaie(int somme, int diviseur)
 {
-    int rendre = 0;
     return (somme/diviseur);
 
 }
