@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//Rendu de monnaie
 int rendre20(int n);
 int rendre10(int n);
 int rendre5(int n);
